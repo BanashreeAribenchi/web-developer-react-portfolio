@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Leap Year Checker",
+    "imageSrc": "projects/leapyearchecker.png",
+    "description": "The Leap Year Checker is a simple web application built with vanilla JavaScript, HTML5, and CSS3 that allows users to check whether a given year is a leap year or not.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://online-leap-year-checker.netlify.app/",
+    "source": "https://github.com/BanashreeAribenchi/leap-year-checker"
+  },
+  {
+    "title": "BMI Calculator",
+    "imageSrc": "projects/bmicalculator.png",
+    "description": "This simple BMI (Body Mass Index) calculator is built using vanilla JavaScript and styled with Tailwind CSS.",
+    "skills": ["JavaScript", "Tailwind CSS", "JavaScript"],
+    "demo": "https://check-your-health-bmi.netlify.app/",
+    "source": "https://github.com/BanashreeAribenchi/BMI-Calculator"
+  },
+  {
+    "title": "Currency Converter",
+    "imageSrc": "projects/currencyconverter.png",
+    "description": "This Currency Converter project is a simple web application created using vanilla HTML5, CSS3, and JavaScript.",
+    "skills": ["HTML5", "CSS3", "JavaScript"],
+    "demo": "https://worldwide-currency-converter.netlify.app/",
+    "source": "https://github.com/BanashreeAribenchi/Currency-converter"
+  }
+]

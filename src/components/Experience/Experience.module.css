@@ -38,7 +38,7 @@
   align-items: center;
   gap: 17px;
   /* background: #5C00A3; */
-  background: linear-gradient(90deg, #420075 0%, rgba(25, 55, 100, 0) 100%);
+  background: linear-gradient(90deg, #2a323c 0%, rgba(25, 55, 100, 0) 100%);
   border-radius: 10px;
   padding: 24px;
 }
