@@ -1,0 +1,46 @@
+[
+  {
+    "role": "WordPress Developer & SEO Analyst",
+    "organisation": "Jumpptech",
+    "startDate": "May, 2021",
+    "endDate": "Sept, 2023",
+    "details": [
+      "WordPress Developer skilled in designing, developing, and managing multiple websites using WordPress.",
+      "Optimized content for websites, blogs, ads, and various digital platforms as required."
+    ],
+    "imageSrc": "experience/jumpptech.jpg"
+  },
+  {
+    "role": "Digital Marketing Executive",
+    "organisation": "The Machine Maker",
+    "startDate": "Feb, 2020",
+    "endDate": "Aug, 2020",
+    "details": [
+      " Assisted in generating content based on the monthly editorial calendar to boost sales, and highlight blogs. ",
+      "Collaborated with the team to develop weekly social media strategies."
+    ],
+    "imageSrc": "experience/themachinemaker.jpg"
+  },
+  {
+    "role": "SEO Intern",
+    "organisation": "Coherent Market Insights",
+    "startDate": "Oct, 2019",
+    "endDate": "Jan, 2020",
+    "details": [
+      "Improved online visibility through keyword research, content optimization, and analytics learning.",
+      "Collaborated with the team to formulate impactful SEO strategies."
+    ],
+    "imageSrc": "experience/coherentmarketinsights.jpg"
+  },
+  {
+    "role": "Email Marketing Specialist",
+    "organisation": "Infiniti Research Ltd.",
+    "startDate": "Jun, 2017",
+    "endDate": "Apr, 2019",
+    "details": [
+      "Skilled in email marketing software, CSS, HTML, campaign management, strategies, and planning.",
+      "Proficient in email A/B testing, optimizing campaigns, and creative development."
+    ],
+    "imageSrc": "experience/infinitiresearchltd.jpg"
+  }
+]

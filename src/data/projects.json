@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sliding Block Puzzle",
+    "imageSrc": "projects/slide-puzzle-game.png",
+    "description": "The game is based on the old sliding tile puzzles where the player has to re-arrange a jumbled picture by sliding tiles around a fixed 2d board",
+    "demo": "https://github.com/BanashreeAribenchi/Sliding-Block-Puzzle",
+    "source": "https://github.com/BanashreeAribenchi/Sliding-Block-Puzzle"
+  },
+  {
+    "title": "Restaurant Table Booking",
+    "imageSrc": "projects/restaurant-table-booking.png",
+    "description": "This project aims to solve a problem of restaurant booking. We can see reviews and also see our bookings for the future.",
+    "demo": "https://restaurant-booking-hn0o.onrender.com/",
+    "source": "https://github.com/Bhalani-Mauli/restaurant-booking"
+  },
+  {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/unbox-joy.png",
+    "description": "This project - Unboxy Joy is an e-commerce website built using React.js ,Node.js, Express.js and  MongoDB.",
+    "demo": "https://github.com/steeldragonn/UnboxJoy",
+    "source": "https://github.com/steeldragonn/UnboxJoy"
+  }
+]
