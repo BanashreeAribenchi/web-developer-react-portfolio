@@ -68,7 +68,8 @@
     align-items: center;
     gap: 13px;
     border-radius: 10px;
-    background-color: #974ec3;
+    /* background-color: #974ec3; */
+    background-color: var(--color-primary);
     padding: 24px 33px;
   }
 }

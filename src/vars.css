@@ -1,11 +1,17 @@
 :root {
   /*colours*/
-  --color-text: #f3f8ff;
-  --color-primary: #ba68c8;
-  --color-secondary: #ba68c8;
-  --color-dark: #9553a0;
-  --color-bg: #1d232a;
+  --color-text: #1b1c1d;
+  --color-primary: #ff9966;
+  --color-purple: #eda6e6;
+  --color-blue: #a8ebff;
+  --colour-yellow: #fff480;
+  --colour-green: #66cca0;
+  --color-bg: #f5f3ea;
 
   /*fonts*/
   --font-roboto: "Roboto";
+}
+
+html {
+  scroll-behavior: smooth;
 }

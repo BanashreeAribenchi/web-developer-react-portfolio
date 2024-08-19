@@ -1,26 +1,23 @@
 [
   {
-    "title": "Leap Year Checker",
-    "imageSrc": "projects/leapyearchecker.png",
-    "description": "The Leap Year Checker is a simple web application built with vanilla JavaScript, HTML5, and CSS3 that allows users to check whether a given year is a leap year or not.",
-    "skills": ["HTML5", "CSS3", "JavaScript"],
-    "demo": "https://online-leap-year-checker.netlify.app/",
-    "source": "https://github.com/BanashreeAribenchi/leap-year-checker"
+    "title": "Sliding Block Puzzle",
+    "imageSrc": "projects/slide-puzzle-game.png",
+    "description": "The game is based on the old sliding tile puzzles where the player has to re-arrange a jumbled picture by sliding tiles around a fixed 2d board",
+    "demo": "https://github.com/BanashreeAribenchi/Sliding-Block-Puzzle",
+    "source": "https://github.com/BanashreeAribenchi/Sliding-Block-Puzzle"
   },
   {
-    "title": "BMI Calculator",
-    "imageSrc": "projects/bmicalculator.png",
-    "description": "This simple BMI (Body Mass Index) calculator is built using vanilla JavaScript and styled with Tailwind CSS.",
-    "skills": ["JavaScript", "Tailwind CSS", "JavaScript"],
-    "demo": "https://check-your-health-bmi.netlify.app/",
-    "source": "https://github.com/BanashreeAribenchi/BMI-Calculator"
+    "title": "Restaurant Table Booking",
+    "imageSrc": "projects/restaurant-table-booking.png",
+    "description": "This project aims to solve a problem of restaurant booking. We can see reviews and also see our bookings for the future.",
+    "demo": "https://restaurant-booking-hn0o.onrender.com/",
+    "source": "https://github.com/Bhalani-Mauli/restaurant-booking"
   },
   {
-    "title": "Currency Converter",
-    "imageSrc": "projects/currencyconverter.png",
-    "description": "This Currency Converter project is a simple web application created using vanilla HTML5, CSS3, and JavaScript.",
-    "skills": ["HTML5", "CSS3", "JavaScript"],
-    "demo": "https://worldwide-currency-converter.netlify.app/",
-    "source": "https://github.com/BanashreeAribenchi/Currency-converter"
+    "title": "E-commerce Website",
+    "imageSrc": "projects/unbox-joy.png",
+    "description": "This project - Unboxy Joy is an e-commerce website built using React.js ,Node.js, Express.js and  MongoDB.",
+    "demo": "https://github.com/steeldragonn/UnboxJoy",
+    "source": "https://github.com/steeldragonn/UnboxJoy"
   }
 ]

@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <>
-      <section className={styles.container}>
+      <section className={styles.container} id="about">
         <div className={styles.content}>
           <h2 className={styles.title}>About</h2>
           <img
@@ -16,21 +16,22 @@ export const About = () => {
         </div>
         <div className={styles.content}>
           <p className={styles.description}>
-            I'm a full-stack web developer with a degree in computer science and
-            engineering. After five years as a digital marketer, I've decided to
-            dive into the exciting world of web development.
+            I am a full-stack web developer with a degree in computer science
+            and engineering. After spending five years as a WordPress Developer
+            & digital marketer, I decided to dive into the exciting world of web
+            development.
           </p>
           <p className={styles.description}>
             Recently, I completed an intensive web development bootcamp where I
-            learned JavaScript, React, Node.js, Express.js, and MongoDB. This
-            immersive experience allowed me to work on real projects and improve
-            my skills in all areas of web development.
+            mastered JavaScript, React, Node.js, Express.js, and MongoDB. This
+            immersive experience allowed me to work on real-world projects and
+            hone my skills in all aspects of web development.
           </p>
           <p className={styles.description}>
             I am actively seeking opportunities to collaborate and contribute in
-            the ever-evolving field of web development. With my expertise in
-            digital marketing and newfound coding skills, I bring a unique
-            perspective to any team.
+            the ever-evolving field of web development. With my background in
+            digital marketing and newly acquired coding expertise, I offer a
+            unique perspective to any team.
           </p>
         </div>
       </section>

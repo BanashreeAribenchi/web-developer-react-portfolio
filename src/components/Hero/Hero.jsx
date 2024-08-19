@@ -8,9 +8,8 @@ export const Hero = () => {
       <section className={styles.container}>
         <div className={styles.content}>
           <h1 className={styles.title}>Hi, I'm Banashree</h1>
-          <p className={styles.description}>
-            I'm a Web Developer skilled in MERN stack
-          </p>
+
+          <p className={styles.description}>A Passionate Frontend Developer.</p>
           <a
             href="mailto:banashree.aribenchi17@gmail.com"
             className={styles.contactBtn}
